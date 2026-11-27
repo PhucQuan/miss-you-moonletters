@@ -6,7 +6,7 @@ export const GIFT = {
   herCity: "Đà Nẵng",
   hisCity: "Hà Nội",
   // TODO: replace with your real dates (YYYY-MM-DD).
-  anniversary: "2025-11-19",
+  anniversary: "2026-11-19",
   nextMeeting: "2027-01-01",
   // Her birthday: month (1-12) and day. The roadmap mentions July 26.
   birthday: { month: 7, day: 26 },
